@@ -1,9 +1,4 @@
 # Hello-world
 This is my first repository.
 
-
-Hi.. Vibhor
-
-........tyijriotyjtihjrtytr
-
-HJGHJHGJGJGJGJGHJGJGJ
+nEW REPOSITORY CHANGE
