@@ -2,6 +2,4 @@
 This is my first repository.
 
 
-Hi.. Vibhor
 
-........tyijriotyjtihjrtytr
